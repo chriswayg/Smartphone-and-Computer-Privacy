@@ -4,7 +4,7 @@
 
 ## Guides
 
-* [Windows 10 debloated with privacy](guides/windows-10-debloated-with-privacy.md)
+* [Password Manager Basics](guides/password-manager-basics.md)
 * [Creating your first task](guides/creating-your-first-task.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 

@@ -34,8 +34,8 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/windows-10-debloated-with-privacy.md" %}
-[windows-10-debloated-with-privacy.md](guides/windows-10-debloated-with-privacy.md)
+{% content-ref url="guides/password-manager-basics.md" %}
+[password-manager-basics.md](guides/password-manager-basics.md)
 {% endcontent-ref %}
 
 {% content-ref url="guides/creating-your-first-task.md" %}
